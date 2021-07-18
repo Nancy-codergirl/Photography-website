@@ -11,5 +11,6 @@ The tools used for this one is : 1.VS code
                                  4.Research and eagerness to learn.
 ![Screenshot from 2021-07-18 22-47-52](https://user-images.githubusercontent.com/87470468/126080447-5201c5f5-4b97-48e1-b3c8-7215d821b378.png)
 Above is an example of how the html code looks like
+This project is by **Nancy Muriithi**
 
 
