@@ -1,12 +1,21 @@
 *{ 
-    padding-top: initial;
-     background: rgb(78, 82, 116);
+    scroll-padding-top: ;
+     background: #86a739;
+     background-attachment: scroll;
+     background-origin: border-box;
     color: rgb(12, 12, 12);
     text-align: left;
 font-family: cursive;
 font-weight: 100;
 font-size: medium;
 font-style: inherit;
+}
+#body
+{
+    div.c {
+        text-align;border-top-left-radius: 0mm;
+      } 
+      
 }
 
 
