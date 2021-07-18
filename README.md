@@ -1,3 +1,4 @@
+![design](https://user-images.githubusercontent.com/87470468/126081860-28e11c60-14f6-448e-bfbf-4537460021bb.jpg)
 # Photography-website
 The name of my website is Shots-kit.This is a photography website that contains photography shots that I have taken over time.Photography captures and stores moments gone forever.
 Shots-kit basically means photography shots that have been summed up together collectively to fully captures moments.
@@ -14,3 +15,4 @@ Above is an example of how the html code looks like
 This project is by **Nancy Muriithi**
 
 
+Attached is the design of the website.
