@@ -23,5 +23,7 @@ Above is an example of how the html code looks like
 ![Screenshot from 2021-07-19 12-54-42](https://user-images.githubusercontent.com/87470468/126142771-7f5789cd-d970-4691-ae7f-4ae4d0512e0f.png)
 
 
-Attached is the design of the website.https://photos.google.com/photo/AF1QipNl_2wsRMzgsZnX0YmtPDFe8U9EvSdOby_isj9O
+Attached is the design of the website.https://photos.google.com/photo/AF1QipNl_2wsRMzgsZnX0YmtPDFe8U9EvSdOby_isj90
+
+This website has a licsense  GPL-2.0 License
 
