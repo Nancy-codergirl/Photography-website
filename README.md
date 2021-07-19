@@ -16,3 +16,4 @@ This project is by **Nancy Muriithi**
 
 
 Attached is the design of the website.
+The live link to my website is https://nancy-codergirl.github.io/Photography-website/
