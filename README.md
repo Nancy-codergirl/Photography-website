@@ -1,6 +1,7 @@
 ![design](https://user-images.githubusercontent.com/87470468/126081860-28e11c60-14f6-448e-bfbf-4537460021bb.jpg)
 # Photography-website
 The name of my website is Shots-kit.This is a photography website that contains photography shots that I have taken over time.Photography captures and stores moments gone forever.
+ The live link to my website is https://nancy-codergirl.github.io/Photography-website/
 Shots-kit basically means photography shots that have been summed up together collectively to fully captures moments.
 This project helps clients who would want to savour their moments through photography to be able to do so by booking a photography session.
 This website is written purely in **HTML and CSS **code.
@@ -16,4 +17,3 @@ This project is by **Nancy Muriithi**
 
 
 Attached is the design of the website.
-The live link to my website is https://nancy-codergirl.github.io/Photography-website/
