@@ -28,5 +28,6 @@ Github name:*Nancy-codergirl*
 
 
 
-This website has a licsense  GPL-2.0 License
+## License 
+This website has the MIT license.
 
